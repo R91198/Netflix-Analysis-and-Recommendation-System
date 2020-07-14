@@ -1,3 +1,3 @@
-## Netflx Recommendation System
+# Netflx Recommendation System
 
 ![](image/logo.jpg)
